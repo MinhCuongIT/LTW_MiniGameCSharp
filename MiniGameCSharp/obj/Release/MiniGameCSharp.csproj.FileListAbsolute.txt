@@ -1,0 +1,12 @@
+D:\PROGRAMMING LANGUAGES\C#\Projects\MiniGameCSharp\MiniGameCSharp\bin\Release\MiniGameCSharp.exe.config
+D:\PROGRAMMING LANGUAGES\C#\Projects\MiniGameCSharp\MiniGameCSharp\bin\Release\MiniGameCSharp.exe
+D:\PROGRAMMING LANGUAGES\C#\Projects\MiniGameCSharp\MiniGameCSharp\bin\Release\MiniGameCSharp.pdb
+D:\PROGRAMMING LANGUAGES\C#\Projects\MiniGameCSharp\MiniGameCSharp\obj\Release\MiniGameCSharp.frmMain.resources
+D:\PROGRAMMING LANGUAGES\C#\Projects\MiniGameCSharp\MiniGameCSharp\obj\Release\MiniGameCSharp.HighScore.resources
+D:\PROGRAMMING LANGUAGES\C#\Projects\MiniGameCSharp\MiniGameCSharp\obj\Release\MiniGameCSharp.Instruction.resources
+D:\PROGRAMMING LANGUAGES\C#\Projects\MiniGameCSharp\MiniGameCSharp\obj\Release\MiniGameCSharp.PlayingGame.resources
+D:\PROGRAMMING LANGUAGES\C#\Projects\MiniGameCSharp\MiniGameCSharp\obj\Release\MiniGameCSharp.Properties.Resources.resources
+D:\PROGRAMMING LANGUAGES\C#\Projects\MiniGameCSharp\MiniGameCSharp\obj\Release\MiniGameCSharp.csproj.GenerateResource.cache
+D:\PROGRAMMING LANGUAGES\C#\Projects\MiniGameCSharp\MiniGameCSharp\obj\Release\MiniGameCSharp.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING LANGUAGES\C#\Projects\MiniGameCSharp\MiniGameCSharp\obj\Release\MiniGameCSharp.exe
+D:\PROGRAMMING LANGUAGES\C#\Projects\MiniGameCSharp\MiniGameCSharp\obj\Release\MiniGameCSharp.pdb
